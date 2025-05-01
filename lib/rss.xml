@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Karriere]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Karriere</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 01 May 2025 07:38:36 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 01 May 2025 07:38:27 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[International University (IU)]]></title><description><![CDATA[ 
+ <br>From May 2020 to November 2024, I completed my Bachelor's degree in Data Science at the International University (IU). Throughout my studies, I worked on a wide range of projects covering core areas such as Python programming, SQL database design, mathematics and statistics, business intelligence, software development principles, machine learning, deep learning, and data-related security. I also gained hands-on experience with DevOps practices, cloud computing, big data technologies, and agile project management. My academic journey was strongly application-focused, culminating in a Bachelor thesis on large language models (LLMs). <br><br>The following is an overview of my most notable and relevant projects.<br>
+<br><a data-href="Airbnb Data Mart Development – SQL &amp; Python Integration" href="01-entries/airbnb-data-mart-development-–-sql-&amp;-python-integration.html" class="internal-link" target="_self" rel="noopener nofollow">Airbnb Data Mart Development – SQL &amp; Python Integration</a>
+<br><a data-href="Habit Tracker – A Web-Based Habit Management &amp; Analytics Tool in Python" href="01-entries/habit-tracker-–-a-web-based-habit-management-&amp;-analytics-tool-in-python.html" class="internal-link" target="_self" rel="noopener nofollow">Habit Tracker – A Web-Based Habit Management &amp; Analytics Tool in Python</a>
+<br><a data-href="Mental Health in Technology-Related Jobs – An Exploratory Data Science Case Study" href="01-entries/mental-health-in-technology-related-jobs-–-an-exploratory-data-science-case-study.html" class="internal-link" target="_self" rel="noopener nofollow">Mental Health in Technology-Related Jobs – An Exploratory Data Science Case Study</a>
+<br><a data-href="Image Classification for a Refund Department – End-to-End ML Deployment in Python" href="01-entries/image-classification-for-a-refund-department-–-end-to-end-ml-deployment-in-python.html" class="internal-link" target="_self" rel="noopener nofollow">Image Classification for a Refund Department – End-to-End ML Deployment in Python</a>
+<br><a data-href="Geo-Spatial Energy Analysis – Interactive Data Visualization of Global Energy Trends" href="01-entries/geo-spatial-energy-analysis-–-interactive-data-visualization-of-global-energy-trends.html" class="internal-link" target="_self" rel="noopener nofollow">Geo-Spatial Energy Analysis – Interactive Data Visualization of Global Energy Trends</a>
+<br><a data-href="Demand Forecasting Model for Public Transport – Predictive Time Series Analysis in Python" href="01-entries/demand-forecasting-model-for-public-transport-–-predictive-time-series-analysis-in-python.html" class="internal-link" target="_self" rel="noopener nofollow">Demand Forecasting Model for Public Transport – Predictive Time Series Analysis in Python</a>
+<br><a data-href="Sentiment Analysis of Customer Reviews – NLP Pipeline Using Pre-Trained BERT Models" href="01-entries/sentiment-analysis-of-customer-reviews-–-nlp-pipeline-using-pre-trained-bert-models.html" class="internal-link" target="_self" rel="noopener nofollow">Sentiment Analysis of Customer Reviews – NLP Pipeline Using Pre-Trained BERT Models</a>
+<br><a data-href="NLP Topic Modeling of Customer Complaints – A Comparative Approach Using LDA and BERTopic" href="01-entries/nlp-topic-modeling-of-customer-complaints-–-a-comparative-approach-using-lda-and-bertopic.html" class="internal-link" target="_self" rel="noopener nofollow">NLP Topic Modeling of Customer Complaints – A Comparative Approach Using LDA and BERTopic</a>
+<br><a data-href="Performance improvement of LLMs for NER using Ensemble Learning techniques" href="01-entries/performance-improvement-of-llms-for-ner-using-ensemble-learning-techniques.html" class="internal-link" target="_self" rel="noopener nofollow">Performance improvement of LLMs for NER using Ensemble Learning techniques</a>
+<br><br>
+<br><a data-href="Ethical Prinicples of a Global Company" href="01-entries/ethical-prinicples-of-a-global-company.html" class="internal-link" target="_self" rel="noopener nofollow">Ethical Prinicples of a Global Company</a>
+<br><a data-href="Testing statistical hypotheses using non-parametric tests" href="01-entries/testing-statistical-hypotheses-using-non-parametric-tests.html" class="internal-link" target="_self" rel="noopener nofollow">Testing statistical hypotheses using non-parametric tests</a>
+<br><a data-href="Architecture Proposal for Constructing a Data Warehouse" href="01-entries/architecture-proposal-for-constructing-a-data-warehouse.html" class="internal-link" target="_self" rel="noopener nofollow">Architecture Proposal for Constructing a Data Warehouse</a>
+<br><a data-href="Principles of Agility used in Modern Software Development" href="01-entries/principles-of-agility-used-in-modern-software-development.html" class="internal-link" target="_self" rel="noopener nofollow">Principles of Agility used in Modern Software Development</a>
+<br><a data-href="Introduction to Academic Work" href="01-entries/introduction-to-academic-work.html" class="internal-link" target="_self" rel="noopener nofollow">Introduction to Academic Work</a>
+<br><a data-href="Enhancement of an Online Retailer's Data Quality Management Capabilities" href="01-entries/enhancement-of-an-online-retailer's-data-quality-management-capabilities.html" class="internal-link" target="_self" rel="noopener nofollow">Enhancement of an Online Retailer's Data Quality Management Capabilities</a>
+<br><a data-href="How to Deal with Security and Privacy Threats in the Context of Data Science" href="01-entries/how-to-deal-with-security-and-privacy-threats-in-the-context-of-data-science.html" class="internal-link" target="_self" rel="noopener nofollow">How to Deal with Security and Privacy Threats in the Context of Data Science</a>
+<br><a data-href="What is the Historical Development of CAR-2-X Technology" href="01-entries/what-is-the-historical-development-of-car-2-x-technology.html" class="internal-link" target="_self" rel="noopener nofollow">What is the Historical Development of CAR-2-X Technology</a>
+<br><br>
+<br>Collaborative Work - Guiding and motivating yourself
+<br>Introduction to Data Science
+<br>Introduction to Programming with Python
+<br>Mathematics - Analysis
+<br>Statistics - Probability and Descriptive Statistics
+<br>Database Modeling and Database Systems
+<br>Mathematics - Linear Algebra
+<br>Data Science Software Engineering
+<br>Machine Learning - Supervised Learning
+<br>Machine Learning—Unsupervised Learning and Feature Engineering
+<br>Big Data Technologies
+<br>Cloud computing
+<br>Neural Nets and Deep Learning
+<br>Time Series Analysis
+<br>Artificial Intelligence
+<br>Self-Driving Vehicles
+<br>Advanced Data Analysis
+<br>Introduction To Data Protection and Cyber Security
+]]></description><link>00-index/international-university-(iu).html</link><guid isPermaLink="false">00 - Index/International University (IU).md</guid><pubDate>Wed, 30 Apr 2025 15:24:33 GMT</pubDate></item><item><title><![CDATA[Airbnb Data Mart Development – SQL & Python Integration]]></title><description><![CDATA[ 
+ <br><br>Designed and implemented a fully functional Data Mart simulating an Airbnb-style rental platform, using SQL (MariaDB) and Python. This academic project focused on real-world database development, including data modeling, system logic, normalization, and procedural automation.<br><br>1. Concept Phase:<br>
+<br>Defined business logic for a dual-user rental platform (guests and hosts).
+<br>Created a detailed ER model and data dictionary based on Airbnb operations.
+<br>Requirements gathered for functionalities like booking, payments, reviews, and accommodation listings.
+<br>2. Development Phase:<br>
+<br>Implemented a normalized database structure with 25+ interconnected tables.
+<br>Developed over 30 stored procedures for core operations (user registration, booking, payment confirmation/cancellation, accommodation creation, and review management).
+<br>Ensured referential integrity with cascading updates/deletes and complex conditional logic.
+<br>Populated test data using both Python scripts and procedure-based SQL inserts.
+<br>3. Finalization Phase:<br>
+<br>Conducted extensive testing with simulated real-world data (fake addresses, payment data).
+<br>Applied tutor feedback iteratively to improve architecture and procedural validation.
+<br>Output includes a fully documented GitHub repository with SQL scripts, ER diagrams, and metadata analysis.
+<br><br>
+<br>Full-stack database implementation using SQL (MariaDB) and phpMyAdmin.
+<br>Use of Python for data population and validation scripting.
+<br>Built for portability and tested on cross-platform XAMPP environments.
+<br>Focused on maintainability, scalability, and real-world use case fidelity.
+<br><br>The development of the Airbnb Data Mart followed a structured, real-world project lifecycle consisting of three distinct phases: conceptual design, implementation, and finalization. The project began with an in-depth conceptual phase, where the main objective was to replicate the business logic and core operations of a platform like Airbnb. Functional requirements were defined to support two distinct user groups—guests and hosts—along with entities such as accommodations, reservations, payments, and reviews. A comprehensive Entity-Relationship (ER) model and data dictionary were developed to establish the relationships between these entities, ensuring data normalization up to the third normal form (3NF) to minimize redundancy and improve consistency.<br>ER Model<br><br>Data Dictionary<br><br>In the implementation phase, the logical model was translated into a relational database using MariaDB via phpMyAdmin (XAMPP). A total of 25+ interlinked tables were created to reflect the complexity of the domain. Over 30 stored procedures were written in SQL to automate key operations such as registering users, managing accommodations, processing reservations, handling payments, and creating or deleting reviews. Each procedure included logic for input validation and referential integrity checks, ensuring robust transactional behavior. For example, the GuestBooking procedure ensured that bookings were only accepted if dates were valid, the accommodation was available, and payment methods existed. Custom logic also handled payment confirmations, with expiration logic for cancellations, and conditional deletion of hosts/accommodations only if no active bookings were present.<br><br>The finalization phase involved populating the database with test data using both SQL and Python scripting. Data included simulated user information, addresses, contact details, and financial transactions, some of which were gathered from public datasets or generated with data fabrication tools. During this phase, all procedures were rigorously tested in realistic scenarios, and refinements were made based on tutor feedback—such as optimizing procedure logic, enforcing stricter foreign key constraints, and improving data traceability. The completed project is fully documented and hosted on GitHub.<br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/project_airbnb_data_mart.git" target="_blank">https://github.com/sanax-997/project_airbnb_data_mart.git</a>]]></description><link>01-entries/airbnb-data-mart-development-–-sql-&amp;-python-integration.html</link><guid isPermaLink="false">01 - Entries/Airbnb Data Mart Development – SQL &amp; Python Integration.md</guid><pubDate>Wed, 30 Apr 2025 12:15:55 GMT</pubDate></item><item><title><![CDATA[Architecture Proposal for Constructing a Data Warehouse]]></title><description><![CDATA[ 
+ <br>]]></description><link>01-entries/architecture-proposal-for-constructing-a-data-warehouse.html</link><guid isPermaLink="false">01 - Entries/Architecture Proposal for Constructing a Data Warehouse.md</guid><pubDate>Wed, 30 Apr 2025 15:16:20 GMT</pubDate></item><item><title><![CDATA[Demand Forecasting Model for Public Transport – Predictive Time Series Analysis in Python]]></title><description><![CDATA[ 
+ <br><br>This project focuses on building a time-series forecasting model to predict hourly taxi demand across key locations in New York City, using the "Uber Pickups in New York" dataset. Designed within the CRISP-DM framework, the project combines exploratory data analysis (EDA), geographic clustering, and SARIMA modeling to offer insights into transportation demand patterns. The ultimate goal is to support logistics optimization, reduce wait times, and improve dispatch efficiency through data-driven predictions.<br><br> 1. Methodology &amp; Framework<br>
+<br>Followed the CRISP-DM lifecycle: Business Understanding → Data Preparation → Modeling → Evaluation → Deployment Strategy.
+<br>Defined KPIs (e.g., prediction accuracy) and KRIs (e.g., 15% revenue increase target).
+<br>Data sourced from Kaggle’s Uber Pickups in NYC (2019), consisting of six months of clean, well-structured time and location data.
+<br>2. Data Engineering &amp; Preprocessing<br>
+<br>Generated time-based features: hour of day, weekday/weekend, holiday indicators.
+<br>Employed clustering to create location-based features (e.g., Midtown, Central Park, Brooklyn).
+<br>Data quality was exceptionally high, allowing for rapid progression through the ETL pipeline.
+<br>3. Model Development &amp; Evaluation<br>
+<br>Chose SARIMA (Seasonal Autoregressive Integrated Moving Average) to capture weekly seasonality and monthly demand trends.
+<br>Model training included auto_arima parameter tuning using the pmdarima library.
+<br>Conducted location-specific forecasting and compared predicted vs. actual pickup volumes.
+<br>Performance limitations emerged due to short dataset duration (6 months) and underrepresentation of holiday effects.
+<br><br>
+<br>Applied SARIMA time-series modeling for spatial-temporal forecasting of public transport demand.
+<br>Identified strong weekly cycles and a 2-month seasonality trend in NYC taxi data.
+<br>Integrated geospatial clustering to represent key high-demand pickup areas.
+<br>Proposed a GUI-based prediction interface for operations teams to input date, time, and location and receive demand forecasts in real time.
+<br>Designed a Git-based project structure including modular directories for raw/processed data, code, visualizations, deployment scripts, and documentation.
+<br>Introduced a plan for automated retraining and continuous monitoring using a feedback loop and anomaly detection.
+<br><br>The project began with a clear business objective: to forecast hourly demand for taxi pickups in New York City in order to optimize vehicle dispatching and resource allocation. The modeling process followed the CRISP-DM methodology, which included defining performance indicators such as prediction accuracy and a key result area aiming for a 15% improvement in fleet efficiency. Data was sourced from the Uber Pickups NYC dataset (April–September), which offered granular timestamp and location details necessary for high-resolution forecasting.<br>To understand short-term patterns in demand, a time-of-day distribution chart was created. The visualization revealed two distinct peaks in pickup activity: a smaller spike around 8:00 AM likely linked to commuting, and a much more pronounced peak around 6:00 PM associated with evening activity and return commutes. <br><img alt="Distribution of Pickups Throughout the Day.jpg" src="lib/media/distribution-of-pickups-throughout-the-day.jpg"><br>These patterns were consistent across weekdays and weekends but differed in magnitude, making time a primary feature for predictive modeling.<br><img alt="Proportional Pickups by Time of Day from April to September 2014.jpg" src="lib/media/proportional-pickups-by-time-of-day-from-april-to-september-2014.jpg"><br>A separate grouped bar chart was used to compare weekday and weekend pickup volumes. The data showed that weekends consistently exhibited higher demand variability, while weekday pickups followed more rigid patterns—especially around business hours. <br><img alt="Number of Pickups per Weekday.jpg" src="lib/media/number-of-pickups-per-weekday.jpg"><br>This suggested that weekday-weekend segmentation was a valuable input for the model and could improve predictive accuracy if incorporated as a categorical variable.<br><img alt="Average Pickups Weekday vs Weekend.jpg" src="lib/media/average-pickups-weekday-vs-weekend.jpg"><br>Next, a bar chart visualized month-to-month demand to detect seasonal trends. A gradual increase in pickups was visible from April through July, with a slight dip in August and September. <br><img alt="Number of Pickups in NYC from April to October 2014.jpg" src="lib/media/number-of-pickups-in-nyc-from-april-to-october-2014.jpg"><br>This was then further confirmed using a simple linear regression. This cyclical behavior indicated seasonality on a 2–3 month scale, reinforcing the decision to use SARIMA, a model specifically designed to account for both trend and seasonality in time-series forecasting.<br><img alt="Linear Correlation of Average Pickups in NYC from April to October 2014.jpg" src="lib/media/linear-correlation-of-average-pickups-in-nyc-from-april-to-october-2014.jpg"><br>To make the model spatially aware, pickup locations were clustered into zones using geographic coordinates. Overall three different graphs where employed to gain a comprehensive understanding. A proportional bar chart, to inspect if there were any changes pickup regions across the year.  <br><img alt="Proportional Pickups by Location from April to September in NYC 2014.jpg" src="lib/media/proportional-pickups-by-location-from-april-to-september-in-nyc-2014.jpg"><br>A normal bar chart was then applied to rank the different regions to determine the largest hotspots and the total amount of pickups.<br><img alt="Number of Pickups by Location in NYC from April to September 2014.jpg" src="lib/media/number-of-pickups-by-location-in-nyc-from-april-to-september-2014.jpg"><br>At last a map was employed to display these clusters, which included known hotspots such as Midtown Manhattan, JFK Airport, Brooklyn, and Central Park. These clusters became a categorical feature, allowing for location-specific demand forecasting. <br><img alt="Map.jpg" src="lib/media/map.jpg"><br>One of the project's core deliverables was a location-specific forecast. For the Brooklyn cluster, a SARIMA model was trained using 4 months of historical data. The resulting plot showed a close alignment between predicted and actual values, particularly in terms of daily cycles. <br><img alt="Brooklyn Pickups with Predictions.jpg" src="lib/media/brooklyn-pickups-with-predictions.jpg"><br>Some divergence occurred during unexpected spikes, attributed to local events or holidays not fully represented in the dataset. Nevertheless, the model achieved high short-term predictive accuracy, validating the methodological approach. However, due to insufficent data, the model showcased limitations in capturing the longer seasonality component spanning across years.<br><img alt="Brooklyn Pickup Predictions.jpg" src="lib/media/brooklyn-pickup-predictions.jpg"><br>In addition, pickup volumes on public holidays were compared with average workday activity. A bar chart revealed significant dips or irregularities in holiday behavior, particularly on dates like the 4th of July. However, due to the dataset only covering 6 months, the number of holidays was too small to train a separate holiday-aware model. This reinforced a future recommendation to extend the training window to a full year, allowing for more granular calendar feature engineering.<br><img alt="Average Pickups Holiday vs Workday.jpg" src="lib/media/average-pickups-holiday-vs-workday.jpg"><br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/demand_forecasting_model_for_public_transport.git" target="_blank">https://github.com/sanax-997/demand_forecasting_model_for_public_transport.git</a>]]></description><link>01-entries/demand-forecasting-model-for-public-transport-–-predictive-time-series-analysis-in-python.html</link><guid isPermaLink="false">01 - Entries/Demand Forecasting Model for Public Transport – Predictive Time Series Analysis in Python.md</guid><pubDate>Wed, 30 Apr 2025 12:35:57 GMT</pubDate><enclosure url="lib/media/distribution-of-pickups-throughout-the-day.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/distribution-of-pickups-throughout-the-day.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Enhancement of an Online Retailer's Data Quality Management Capabilities]]></title><description><![CDATA[ 
+ <br>]]></description><link>01-entries/enhancement-of-an-online-retailer&apos;s-data-quality-management-capabilities.html</link><guid isPermaLink="false">01 - Entries/Enhancement of an Online Retailer&apos;s Data Quality Management Capabilities.md</guid><pubDate>Wed, 30 Apr 2025 15:21:43 GMT</pubDate></item><item><title><![CDATA[Ethical Prinicples of a Global Company]]></title><description><![CDATA[ 
+ <br>]]></description><link>01-entries/ethical-prinicples-of-a-global-company.html</link><guid isPermaLink="false">01 - Entries/Ethical Prinicples of a Global Company.md</guid><pubDate>Wed, 30 Apr 2025 15:14:45 GMT</pubDate></item><item><title><![CDATA[Geo-Spatial Energy Analysis – Interactive Data Visualization of Global Energy Trends]]></title><description><![CDATA[ 
+ <br><br>This project focuses on creating a data-driven narrative around global energy production and consumption, highlighting the shift toward renewable energy sources. Leveraging the comprehensive OWID Energy dataset, the project visualizes the intersection of energy use, economic growth, and greenhouse gas emissions through an interactive storytelling platform. Combining Python (Pandas, Plotly) with principles of visual storytelling, the analysis reveals key regional disparities, trends, and correlations—empowering informed decisions on energy sustainability and climate responsibility.<br><br> 1. Data Acquisition &amp; Cleaning<br>
+<br>
+Sourced data from the OWID (Our World in Data) Energy dataset, which covers global energy metrics from 1900–2022.
+
+<br>
+Preprocessed raw data to extract relevant variables such as electricity source shares, GDP, CO₂ emissions, and country-level energy production.
+
+<br>
+Cleaned and structured the dataset to ensure consistency across time series and categorical columns.
+2. Visualization Tools &amp; Techniques
+
+<br>
+Used Pandas for data manipulation and Plotly for creating interactive, multi-dimensional visualizations.
+
+<br>
+Designed responsive visualizations including:
+
+<br>Geo-spatial choropleth maps.
+<br>Pie charts (energy mix).
+<br>Area charts (historical growth).
+<br>Bar and grouped bar charts (regional comparisons).
+<br>Regression plots (GDP vs. energy use).
+
+
+<br>
+Applied color theory to encode meaning (e.g., green for renewables, red for fossil, brown for emissions).
+3. Interactivity and Design
+
+<br>
+Built a dynamic system where visual elements interact with each other—e.g., clicking a country on the map highlights that country in all related charts.
+
+<br>
+Implemented linked selection and filtering across graphs to enhance user experience.
+
+<br>
+Followed data storytelling principles from literature to balance clarity, engagement, and technical depth.
+
+<br><br>
+<br>Developed an interactive dashboard that links geo-spatial maps with analytical visualizations for deeper contextual understanding.
+<br>Provided a comprehensive analysis of global energy patterns, with a special focus on:
+
+<br>Renewable energy growth vs. fossil fuel dominance.
+<br>Continental energy disparities.
+<br>Top CO₂ emitters and their economic profiles.
+
+
+<br>Demonstrated how GDP strongly correlates with energy use, especially in countries like China, the U.S., and India.
+<br>Delivered a visually intuitive tool to policymakers and educators for exploring energy data from multiple dimensions.
+<br>Reinforced technical and creative decisions using academic literature and principles of effective visualization.
+<br><br>The project began with a dual objective: to explore the impact of legislation and social movements on the global energy landscape, and to use interactive data visualization to tell that story. After defining the analytical scope, the OWID Energy dataset was selected due to its breadth and reliability. The dataset was examined, cleaned, and structured using Pandas, enabling the foundation for insightful visual analysis.<br>The initial phase focused on visualizing global energy consumption using a choropleth map, with countries colored based on Terra-Watt hour usage. This map highlighted disparities, such as high usage in China and the U.S., and minimal usage in many African nations. <br><img alt="Energy Consumption Disparities.png" src="lib/media/energy-consumption-disparities.png"><br>The project then transitioned to temporal trends, using area charts to show how electricity generation has evolved since 1985—revealing fossil fuels’ continued dominance but also the exponential rise of renewable energy.<br><img alt="World Electricity Sources.png" src="lib/media/world-electricity-sources.png"><br>Subsequent analyses addressed the energy source mix by continent, exposing regional dependencies and leaders in renewable adoption (notably South America). <br><img alt="Share of Electricity Sources by Contintent.jpg" src="lib/media/share-of-electricity-sources-by-contintent.jpg"><br>The project also ranked countries by greenhouse gas emissions, with China standing out as the top contributor—producing more emissions than the next nine countries combined.<br><img alt="Top 10 Countries with the Highest Greenhouse Gas Emissions.png" src="lib/media/top-10-countries-with-the-highest-greenhouse-gas-emissions.png"><br>Further, the correlation between GDP and energy consumption was analyzed through regression plots, affirming that economic growth is a powerful driver of energy demand. China, India, and the U.S. demonstrated this pattern most clearly, reinforcing the idea that sustainability strategies must consider economic trajectories.<br><img alt="Scatter Plot of Primary Energy Consumption.png" src="lib/media/scatter-plot-of-primary-energy-consumption.png"><br>The final section addressed design methodology. Every creative decision—from color schemes (e.g., red = fossil fuels, green = renewables) to chart type selection—was intentional and literature-backed. The visual system ensured that users could intuitively navigate complex datasets. Most notably, the interactivity allowed users to select countries on the map, automatically updating all other visualizations for a richer, personalized data exploration experience.<br><img alt="Showacing Graph Interactivity.png" src="lib/media/showacing-graph-interactivity.png"><br>In conclusion, the project offered both a present-state analysis and forward-looking insights into energy use, while contributing to the broader discourse on interactive data storytelling. It showcased the potential of data visualization not just to inform—but to engage and empower.<br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/exploratory_data_analysis_and_visualization.git" target="_blank">https://github.com/sanax-997/exploratory_data_analysis_and_visualization.git</a>]]></description><link>01-entries/geo-spatial-energy-analysis-–-interactive-data-visualization-of-global-energy-trends.html</link><guid isPermaLink="false">01 - Entries/Geo-Spatial Energy Analysis – Interactive Data Visualization of Global Energy Trends.md</guid><pubDate>Wed, 30 Apr 2025 12:15:47 GMT</pubDate><enclosure url="lib/media/energy-consumption-disparities.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/energy-consumption-disparities.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Habit Tracker – A Web-Based Habit Management & Analytics Tool in Python]]></title><description><![CDATA[ 
+ <br><br>The Habit Tracker is a full-stack Python web application designed to help users track, manage, and analyze recurring habits through a clean web interface. Developed using Flask, this project showcases object-oriented and functional programming principles while integrating local JSON-based data storage, form validation, and multi-user support. The application allows users to register, log in, create and check off habits, and view analytics on performance—all with data persisted across sessions. This project served as a practical exercise in building end-to-end web applications and deepened my fluency in Python, Flask, and web development best practices.<br><br>1. Conception Phase:<br>
+<br>
+Defined the core architecture using Object-Oriented Programming (OOP) and Functional Programming (FP) paradigms.
+
+<br>
+Outlined the separation of concerns via two core modules:
+
+<br>habits.py: Defines the Habit class with methods for creation, checking, and deletion.
+<br>analytics.py: Functional module providing insights such as longest streaks or habits by periodicity.
+
+
+<br>
+Designed a user flow diagram and program architecture diagram for client-server interaction.
+
+<br>
+Chose Flask for the backend and HTML/CSS (with Bootstrap) for the frontend interface, hosted locally.
+2. Development Phase:
+
+<br>
+Integrated Flask to serve as a backend router and expose methods through a web-based UI.
+
+<br>
+Built and styled HTML templates using Bootstrap, and implemented routing logic with Jinja2 templating.
+
+<br>
+Developed a user authorization system with registration, login/logout functionality using hashed passwords (via werkzeug).
+
+<br>
+Implemented file-based local storage using JSON files, managing individual user data securely and efficiently with Python’s os module.
+
+<br>
+Completed development of habit management features: create, check, and delete—including automatic streak tracking using datetime.
+
+<br>
+Added advanced analytics: view habits with the same periodicity, longest current streaks, and historical bests—all written as side-effect-free functions.
+
+<br>
+Developed a dual-part testing suite:
+
+<br>Back-end tests using Python’s unittest to ensure correct server responses.
+<br>Front-end tests using Selenium to simulate user interactions and validate UI behavior.
+
+
+<br>3. Finalization Phase:<br>
+<br>Refined architecture based on iterative feedback, improving modularity and readability.
+<br>Expanded on UX elements (input validation, error handling, default user setup).
+<br>Deployed a working demo with multiple users, default data, and a fully styled interface.
+<br><br>
+<br>Full-stack Python web application built entirely from scratch.
+<br>Combines OOP for data modeling (habits) with FP for analytics (pure functions).
+<br>Local JSON file-based storage (instead of databases) to emphasize direct Python data handling.
+<br>Built-in authentication system and streak-tracking logic based on periodicity and dates.
+<br>Extensive testing coverage for both back-end and front-end logic.
+<br>Features a responsive web interface powered by Flask, Bootstrap, and Jinja2.
+<br><br>The development of the Habit Tracker began with the conception phase, where the program's architecture was first envisioned. The application was broken down into modular components—habits.py handling the Habit class and all related operations, and analytics.py implementing functional routines for analyzing user data. To deliver a user-friendly interface, Flask was chosen to route backend functions to a web-based frontend, styled using Bootstrap. Diagrams were sketched to map out user flow and client-server interactions, and local JSON files were selected over SQL for lightweight storage and easier prototyping.<br>User Flow Chart<br><br>Class Diagram<br><br>During the development phase, a minimal viable Flask app was set up to confirm client-server routing. After validating functionality, HTML templates and form logic were added, along with secure user registration and login mechanisms using hashed passwords. The Habit class was implemented with features to create, check, and delete habits, and additional functionality tracked streaks using Python’s datetime module. JSON was used to persist all user and habit data per session. As functionality matured, the analytics module was integrated, enabling users to explore patterns in their habit history. Finally, unit tests and automated UI tests using Selenium ensured that both backend logic and frontend user interactions performed reliably.<br><br>In the finalization phase, code was iteratively refined based on tutor feedback, with particular focus on structure, code reuse, and performance. Enhancements included improvements to the authentication flow, better form validation, and UI responsiveness. The application was fully documented, packaged, and accompanied by diagrams and test logs. The result was a modular, well-tested Python web app that demonstrated proficiency across backend development, frontend templating, data storage, and automated testing.<br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/oofpp_habits_project.git" target="_blank">https://github.com/sanax-997/oofpp_habits_project.git</a>]]></description><link>01-entries/habit-tracker-–-a-web-based-habit-management-&amp;-analytics-tool-in-python.html</link><guid isPermaLink="false">01 - Entries/Habit Tracker – A Web-Based Habit Management &amp; Analytics Tool in Python.md</guid><pubDate>Tue, 29 Apr 2025 15:26:19 GMT</pubDate></item><item><title><![CDATA[How to Deal with Security and Privacy Threats in the Context of Data Science]]></title><description><![CDATA[ 
+ <br>]]></description><link>01-entries/how-to-deal-with-security-and-privacy-threats-in-the-context-of-data-science.html</link><guid isPermaLink="false">01 - Entries/How to Deal with Security and Privacy Threats in the Context of Data Science.md</guid><pubDate>Wed, 30 Apr 2025 15:22:12 GMT</pubDate></item><item><title><![CDATA[Image Classification for a Refund Department – End-to-End ML Deployment in Python]]></title><description><![CDATA[ 
+ <br><br>This project delivers a complete machine learning-powered software solution for automating the classification of returned fashion items based on product images. Built for a sustainable online clothing platform experiencing scaling challenges, the goal was to streamline the refund department's workflow by replacing manual classification with an AI model. The system integrates image preprocessing, classification using a deep learning model (VGG19), and full-stack deployment using Django. Emphasis was placed not only on model performance but also on enabling real-world production use via a custom-built client-server application.<br><br> 1. Machine Learning Model<br>
+<br>
+Chose VGG19 (Keras) as the backbone model due to its strong performance on medium-sized datasets and structural simplicity.
+
+<br>
+Dataset: 28,000 images (training/testing), split across 4 categories (Bags, Boots, Tops, Trousers).
+
+<br>
+Preprocessing included rescaling images to 32x32 grayscale for compatibility.
+
+<br>
+Model fine-tuned with 2 dense layers (512 units each), achieving 99.8% training accuracy and 99.58% validation accuracy.
+
+<br>
+Model trained using Kaggle, leveraging its GPU-powered environment for efficiency.
+2. Data Pipeline and Training
+
+<br>
+Raw data provided in .ubyte format; developed a Python script to convert and organize images into structured folders.
+
+<br>
+Dataset divided into train/test directories for balanced class representation.
+
+<br>
+Training pipeline included augmentation, resizing, and batch processing.
+3. Full-Stack Deployment
+
+<br>
+Developed a Django-based server with API endpoints for receiving image data, converting strings to images, and returning category predictions.
+
+<br>
+Built a Python client application that:
+
+<br>Monitors incoming refund images.
+<br>Batches and sends them overnight via HTTP POST.
+<br>Parses JSON responses and handles sorting based on classification.
+
+
+<br>
+Conversion between image data and string formats ensured compatibility for transmission.
+
+<br><br>
+<br>Delivered a production-grade ML pipeline: data acquisition → model training → deployment → automation.
+<br>Achieved real-time image classification and dynamic image sorting based on server response.
+<br>Implemented robust client-server communication using HTTP and JSON, with string-based image transmission.
+<br>Created a modular client script with adjustable runtime parameters and folder paths.
+<br>Used pipenv for virtual environment and dependency management, ensuring ease of installation and reproducibility.
+<br>Hosted full project with documentation and user manual on GitHub.
+<br><br>The project started by identifying a real-world need: refund departments overwhelmed by manual sorting of returned products. The first task was to select a robust image classification model, for which VGG19 (via Keras) was chosen due to its reliability on medium-complexity image datasets. The dataset—roughly 30,000 low-res fashion images—was cleaned, converted from byte format, and sorted into training and testing folders using a custom Python script.<br>With the dataset prepared, the model was trained on Kaggle to leverage cloud GPU resources. Images were resized and normalized to meet VGG19 requirements, and the model was fine-tuned to the classification task using additional dense layers. The training process delivered exceptional accuracy metrics, making the model ready for deployment.<br>Next, the project shifted to system integration. A Django-based server was developed to host the trained model and expose a REST API for classification requests. On the other side, a Python client script was built with features to batch images, convert them to string format, and send them nightly at 23:00 via POST requests. Upon receiving a response with category predictions, the client renamed and moved the files into appropriate folders based on a naming convention, maintaining clear organization for downstream handling.<br>The final part of the project included a live demonstration, showing end-to-end functionality from launching the server (py manage.py runserver) and sending test images via the client, to observing sorted and renamed output files. All components were wrapped in pipenv-managed environments for portability, and a detailed manual ensures reproducibility. The system is designed to be modular, scalable, and adaptable to additional categories or future ML model upgrades.<br><br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/project_from_model_to_production.git" target="_blank">https://github.com/sanax-997/project_from_model_to_production.git</a>]]></description><link>01-entries/image-classification-for-a-refund-department-–-end-to-end-ml-deployment-in-python.html</link><guid isPermaLink="false">01 - Entries/Image Classification for a Refund Department – End-to-End ML Deployment in Python.md</guid><pubDate>Wed, 30 Apr 2025 12:15:37 GMT</pubDate></item><item><title><![CDATA[Introduction to Academic Work]]></title><description><![CDATA[ 
+ <br>]]></description><link>01-entries/introduction-to-academic-work.html</link><guid isPermaLink="false">01 - Entries/Introduction to Academic Work.md</guid><pubDate>Wed, 30 Apr 2025 15:18:20 GMT</pubDate></item><item><title><![CDATA[Mental Health in Technology-Related Jobs – An Exploratory Data Science Case Study]]></title><description><![CDATA[ 
+ <br><br>This data science case study explores mental health patterns in technology-related professions using survey data. The project involved comprehensive data preprocessing, transformation, dimensionality reduction, and clustering to uncover psychological trends and demographic vulnerabilities. The goal was not only to clean and prepare raw survey data but to extract meaningful insights that could inform real-world mental health initiatives in tech workplaces. Conducted with Python, the project demonstrates expertise in feature engineering, unsupervised learning, and cluster analysis techniques, with findings grounded in rigorous preprocessing logic and visual interpretability.<br><br>1. Feature Preprocessing &amp; Engineering<br>
+<br>Loaded and inspected raw survey data to assess structure and quality.
+<br>Conducted extensive feature cleaning, removing columns with high cardinality or &gt;30% missing values.
+<br>Segmented and retained relevant records focused on technology-related employment.
+<br>Cleaned missing values using:
+
+<br>Logical assumptions based on question context.
+<br>Mode imputation where assumptions failed.
+
+
+<br>Transformed categorical features into numerical form using:
+
+<br>Binary encoding for nominal data.
+<br>Ordinal encoding for ordered responses.
+<br>One-hot encoding for multi-category features.
+
+
+<br>2. Dimensionality Reduction<br>
+<br>Applied Principal Component Analysis (PCA) to compress feature space but found it ineffective for categorical data.
+<br>Switched to Multiple Correspondence Analysis (MCA), which provided significantly better cluster separability and interpretability for survey-based features.
+<br>3. Clustering &amp; Analysis<br>
+<br>Used K-Means clustering to identify hidden groupings in the data.
+<br>Determined the optimal number of clusters using:
+
+<br>Elbow Method (based on WCSS).
+<br>Silhouette Score.
+
+
+<br>Performed cluster analysis across different demographic splits:
+
+<br>Employed vs. self-employed.
+<br>Diagnosed vs. non-diagnosed individuals.
+
+
+<br>Analyzed polar charts to interpret feature impact within clusters.
+<br><br>
+<br>Demonstrated expertise in feature preprocessing for categorical, incomplete, and survey-based data.
+<br>Applied MCA for dimensionality reduction—a technique well-suited for non-numeric variables and widely used in social science analytics.
+<br>Performed unsupervised machine learning with K-Means, enabling non-predictive insight into trends.
+<br>Revealed strong relationships between mental health and variables such as gender identity, job role, employment status, traumatic experience, and geographic location.
+<br>Produced actionable insights for designing preventive mental health programs in tech organizations.
+<br><br>The project began with loading and exploring raw survey data, assessing the types and completeness of features. A large portion of the dataset was categorical and contained missing or ambiguous values, which made feature cleaning the first and most critical step. The general cleaning phase involved dropping columns with high cardinality or excessive missing data, such as open-ended text responses and overly granular location fields. More nuanced missing data, especially those tied to conditional logic (e.g., “employer” questions only relevant to employed individuals), led to the segmentation of the dataset into multiple subframes, allowing for more precise imputations and retention of valuable information. <br>After the data was clean, a multi-tiered transformation pipeline converted categorical data into numerical format. Binary encoding was used for dichotomous variables, ordinal mapping for ranked responses, and one-hot encoding for features with multiple categorical values. These transformations enabled compatibility with machine learning models.<br>Next came dimensionality reduction, a key step for high-dimensional survey data. PCA was initially tested, but performed poorly with categorical input. After further research, Multiple Correspondence Analysis (MCA) was chosen as a better alternative. MCA allowed the reduction of feature space to 2–3 dimensions while preserving enough variance to visually identify meaningful clusters.<br>Multiple Correspondence Analysis<br><img alt="Multiple Correspondence Analysis.png" src="lib/media/multiple-correspondence-analysis.png"><br>With a manageable feature space, K-Means clustering was applied. The optimal number of clusters (three) was chosen based on both the Elbow Method and Silhouette Score. <br><img alt="Elbow Score and Silhouette Plot.png" src="lib/media/elbow-score-and-silhouette-plot.png"><br>The clustering revealed significant patterns across different groups. For instance, self-employed individuals and those identifying outside the male/female binary had a higher prevalence of mental health diagnoses. Job type also played a role: front-end developers and dev evangelists showed elevated mental health concerns compared to back-end developers and system administrators.<br><img alt="K-means and Polar Clustering.png" src="lib/media/k-means-and-polar-clustering.png"><br>Visuals such as polar plots and scatter plots of reduced data provided interpretability of each cluster’s composition. These findings led to targeted recommendations for mental health support programs: focusing on at-risk groups (e.g., non-binary individuals, self-employed workers), providing educational resources, and assessing organizational openness to mental health discussions.<br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/mental_health_analysis.git" target="_blank">https://github.com/sanax-997/mental_health_analysis.git</a>]]></description><link>01-entries/mental-health-in-technology-related-jobs-–-an-exploratory-data-science-case-study.html</link><guid isPermaLink="false">01 - Entries/Mental Health in Technology-Related Jobs – An Exploratory Data Science Case Study.md</guid><pubDate>Wed, 30 Apr 2025 12:15:40 GMT</pubDate><enclosure url="lib/media/multiple-correspondence-analysis.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/multiple-correspondence-analysis.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[NLP Topic Modeling of Customer Complaints – A Comparative Approach Using LDA and BERTopic]]></title><description><![CDATA[ 
+ <br><br>This project focuses on analyzing customer complaints using Natural Language Processing (NLP) to uncover the most frequent topics in unstructured text data. Using the Comcast Consumer Complaints dataset from Kaggle, the project implements a comparative approach between traditional TF-IDF + Latent Dirichlet Allocation (LDA) and a modern BERT-based model via the BERTopic library. The objective is not only to extract key issues voiced by customers but also to evaluate how different modeling techniques reveal insights in varying levels of granularity. This dual-pipeline framework provides a hands-on understanding of the evolution in topic modeling methodologies.<br><br> 1. Data Collection and Preprocessing<br>
+<br>
+Dataset: Comcast Consumer Complaints (Kaggle)
+
+<br>
+Preprocessing: Tokenization, spell-checking, stopword removal, lemmatization
+
+<br>
+Enrichment: N-gram creation for contextual depth
+2. Topic Modeling Methods
+
+<br>
+Traditional Method: TF-IDF vectorization + LDA (using scikit-learn)
+
+<br>
+Modern Method: BERT embeddings + c-TF-IDF (using BERTopic and Hugging Face Transformers)
+
+<br>3. Visualization and Comparison<br>
+<br>pyLDAvis for LDA topic interpretation
+<br>BERTopic's LDAvis-based visualization for transformer model
+<br>Topic distance maps to determine number and separation of topics
+<br><br>
+<br>Implemented and compared two end-to-end NLP topic modeling pipelines.
+<br>Demonstrated clear differences in model capabilities—LDA yielded 4 general topic clusters, while BERTopic uncovered 6 more nuanced clusters.
+<br>Ensured pipeline uniformity through shared preprocessing and vocabulary, enabling fair comparative analysis.
+<br>Used interactive topic visualizations to enhance interpretability and provide a user-friendly analysis output.
+<br>Built a functional application interface that allows users to input text and choose their preferred modeling approach.
+<br>Gained practical experience in text vectorization, unsupervised learning, and transformer-based NLP models.
+<br><br>The project began with the goal of identifying and analyzing major topics found within consumer complaints. After reviewing multiple publicly available datasets, the Comcast Consumer Complaints dataset from Kaggle was selected for its relevant content and structured format. It included columns for author, date, rating, and—most critically—open-ended complaint text. Initial analysis revealed that while the dataset was high quality overall, the text data required extensive preprocessing for use in topic modeling.<br>The first stage of development involved preparing the raw text for analysis. This included tokenization, spell correction, stopword removal, and lemmatization, all performed using the NLTK library. The cleaned tokens were then enriched using n-gram detection, adding multi-word expressions to the vocabulary. This ensured that both pipelines could detect common phrases relevant to telecom complaints (e.g., “billing issue”, “cable outage”).<br>Following preprocessing, the text was fed into two separate topic modeling pipelines for comparison. The first pipeline followed a classic approach: text was transformed into TF-IDF vectors and passed into a Latent Dirichlet Allocation (LDA) model, using scikit-learn. The output topics were then visualized with pyLDAvis, which provided an intertopic distance map—a key tool for determining the optimal number of topics. Four non-overlapping clusters emerged, revealing broad themes like billing disputes and service failures.<br>The second pipeline utilized BERTopic, a more modern framework that combines BERT embeddings with class-based TF-IDF (c-TF-IDF) for topic modeling. This method offered deeper contextual understanding and automatically calculated an optimal number of clusters. The resulting visualization displayed six distinct topic areas, indicating that the transformer model was able to capture subtler patterns and distinctions within the complaints. Topics such as equipment installation issues and specific service failures emerged clearly.<br>A side-by-side comparison of the LDA and BERTopic outputs showed that while LDA was effective in surfacing generalized themes, BERTopic provided more specific and nuanced categorization. Both pipelines used a similar visualization framework (LDAvis-based), making it easy to compare topic separation, keyword clarity, and cluster density. <br><img alt="pyLDAvis visualization v2.jpg" src="lib/media/pyldavis-visualization-v2.jpg"><br>It was clear from the intertopic distance maps that BERTopic captured a greater range of consumer concerns—a reflection of its ability to model language context more richly via transformer embeddings.<br><img alt="BERTopic.jpg" src="lib/media/bertopic.jpg"><br>The final phase of the project focused on building an end-to-end application structure. The result was a modular NLP tool that allows a user to input raw text and select between LDA and BERTopic for analysis. The output is an interactive HTML visualization of the modeled topics. This not only allows for insightful exploration of the data, but also helps users interpret the semantic structure of consumer concerns in a transparent and accessible way.<br>Overall, the project achieved its goals of demonstrating two powerful topic modeling techniques, comparing their outcomes in detail, and building a functional NLP tool. It provided practical experience with both traditional vector-based methods and state-of-the-art transformer approaches, along with insights into their strengths, limitations, and optimal use cases in the context of customer complaint analysis.<br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/sentiment_analysis_of_customer_reviews.git" target="_blank">https://github.com/sanax-997/sentiment_analysis_of_customer_reviews.git</a>]]></description><link>01-entries/nlp-topic-modeling-of-customer-complaints-–-a-comparative-approach-using-lda-and-bertopic.html</link><guid isPermaLink="false">01 - Entries/NLP Topic Modeling of Customer Complaints – A Comparative Approach Using LDA and BERTopic.md</guid><pubDate>Wed, 30 Apr 2025 13:00:15 GMT</pubDate><enclosure url="lib/media/pyldavis-visualization-v2.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pyldavis-visualization-v2.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Performance improvement of LLMs for NER using Ensemble Learning techniques]]></title><description><![CDATA[ 
+ <br><br>The thesis titled "Performance Improvement of Large Language Models for Named Entity Recognition using Ensemble Learning Techniques" focuses on leveraging ensemble learning methods, specifically Bagging and Boosting, to enhance the performance of Named Entity Recognition (NER) tasks in Large Language Models (LLMs). NER plays a crucial role in Natural Language Processing (NLP) tasks by identifying and categorizing entities such as names, locations, dates, and more in unstructured text. However, NER often faces challenges such as false positives (FP), where non-entities are incorrectly identified as entities, and false negatives (FN), where actual entities are missed. These errors can significantly affect the accuracy and reliability of the models.<br>The main goal of this research was to explore whether ensemble learning methods like Bagging (which combines multiple models to reduce overfitting and error) and Boosting (which sequentially corrects misclassifications of previous models) could reduce these common errors and improve NER performance. The experiment utilized the DocRED dataset, which is a human-labeled dataset commonly used in the evaluation of NER tasks, providing ground truth for comparison. The study also aimed to evaluate whether these methods could be practical in real-world applications by considering computational cost, processing time, and scalability.<br><br>
+<br>
+Data Processing &amp; Evaluation Strategy
+
+<br>Fuzzy Matching was applied to account for minor token misalignments, allowing for variations in entity positions while comparing predictions to ground truth.
+<br>The evaluation was based on key metrics: Precision, Recall, and F1-score, which are critical in determining the accuracy of NER tasks, focusing on the ability to reduce FP and FN.
+<br>A confusion matrix was used to calculate performance, offering a transparent method for measuring the effectiveness of NER extraction.
+
+
+<br>
+Model Development &amp; Performance Analysis
+
+<br>The Bagging and Boosting approaches were compared to standard NER models. Bagging showed a reduction in mismatched and redundant entities (FP), while Boosting was more effective at reducing missed entities (FN).
+<br>Performance analysis was conducted by tracking FN, FP, and F1-scores across various iterations, with Bagging showing a slight performance boost (+0.7% F1-score) and Boosting causing a minor decline in F1-score despite reductions in FN.
+
+
+<br>
+Feasibility &amp; Practicality Assessment
+
+<br>Both ensemble methods were found to improve performance in specific error categories, but the cost-effectiveness of these methods was questioned. The increase in computational time and resources, especially in Boosting, was deemed impractical for general application, despite the improvements in reducing FN (Boosting) and FP (Bagging).
+<br>Specialized Use Cases where targeted error reduction (such as lowering FN or FP in legal or medical texts) could benefit from these techniques were identified as more appropriate scenarios for applying these methods
+
+
+<br><br>
+<br>Practical Insights on Ensemble Learning for NER: Demonstrated how Bagging and Boosting methods could reduce errors in NER tasks, with a clear identification of trade-offs between error types and computational cost.
+<br>Key Learning on Evaluation Metrics: Gained a deep understanding of the importance of precision, recall, and F1-score in evaluating NER models, especially in contexts where errors in specific entity types (e.g., missed or mismatched entities) are more critical.
+<br>Performance vs. Cost: While the methods showed minor improvements in NER performance, the resource cost (increased processing time) for only a small improvement in accuracy made them impractical for general use, highlighting the need for cost-benefit analysis when deploying ensemble models.
+<br>Impact of Dataset Quality: Learned how dataset inconsistencies (such as title variations or ambiguous entity boundaries) can significantly affect model performance, particularly with ensemble techniques. This insight stresses the importance of data cleaning and standardization for NER tasks.
+<br>Exploration of NER in Specialized Domains: While general performance improvements were limited, the research pointed to the potential of these methods for specialized applications where targeting specific error categories could lead to significant real-world benefits (e.g., reducing FN in legal documents or reducing FP in medical records).
+<br>Future Directions: The thesis also paved the way for further research into context-specific optimization of ensemble methods for NER and other language tasks, proposing the integration of fine-tuning and hybrid models for specialized error handling. This opens new avenues for improving LLM performance in high-stakes applications.
+<br><br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/Performance-improvement-of-LLMs-for-Named-Entity-Recognition-using-Ensemble-Learning-techniques.git" target="_blank">https://github.com/sanax-997/Performance-improvement-of-LLMs-for-Named-Entity-Recognition-using-Ensemble-Learning-techniques.git</a>]]></description><link>01-entries/performance-improvement-of-llms-for-ner-using-ensemble-learning-techniques.html</link><guid isPermaLink="false">01 - Entries/Performance improvement of LLMs for NER using Ensemble Learning techniques.md</guid><pubDate>Wed, 30 Apr 2025 15:12:41 GMT</pubDate></item><item><title><![CDATA[Principles of Agility used in Modern Software Development]]></title><description><![CDATA[ 
+ <br>]]></description><link>01-entries/principles-of-agility-used-in-modern-software-development.html</link><guid isPermaLink="false">01 - Entries/Principles of Agility used in Modern Software Development.md</guid><pubDate>Wed, 30 Apr 2025 15:16:56 GMT</pubDate></item><item><title><![CDATA[Sentiment Analysis of Customer Reviews – NLP Pipeline Using Pre-Trained BERT Models]]></title><description><![CDATA[ 
+ <br><br>This project applies Natural Language Processing (NLP) techniques to analyze customer reviews and classify sentiments using a pre-trained BERT model. Designed as part of an Artificial Intelligence course, the project demonstrates a full NLP pipeline—from data cleaning to prediction, visualization, and evaluation. The Women’s Clothing E-Commerce Reviews dataset from Kaggle served as the foundation, and the implementation leveraged tools like Pandas, Scikit-learn, Transformers, and Matplotlib to process and analyze the text. The final product is a modular, accurate sentiment analysis tool capable of turning unstructured review data into valuable business insights.<br><br>1. Conception Phase<br>
+<br>Selected the “Womens Clothing E-Commerce Reviews” dataset from Kaggle for its blend of review text and numerical star ratings.
+<br>Researched and defined the NLP pipeline, choosing Python's Transformers (Hugging Face) and scikit-learn for modeling and evaluation.
+<br>Chose the bert-base-uncased-finetuned-review-sentiment-analysis model for classification, based on its fine-tuning for customer reviews.
+<br>2. Development Phase<br>
+<br>Cleaned dataset using Pandas and filtered out entries with empty review text.
+<br>Tokenized and preprocessed text data using AutoTokenizer, tailored to the BERT model architecture.
+<br>Built a sentiment classification pipeline using Hugging Face’s pipeline() interface to predict review sentiment.
+<br>Categorized both predictions and true labels into positive, neutral, and negative classes based on review star ratings.
+<br>Visualized the results using Matplotlib and assessed model performance with accuracy, precision, recall, and F1-score.
+<br>3. Finalization Phase<br>
+<br>Completed a functional, user-ready Python script capable of full-cycle sentiment analysis.
+<br>Evaluated performance with a strong overall accuracy of 87%, with high precision and recall for positive sentiments.
+<br>Identified opportunities for enhancement in class imbalance (underrepresented negative reviews) and proposed data augmentation and feedback loops for model retraining.
+<br><br>
+<br>Applied pre-trained transformer models (BERT) to real-world textual data for sentiment analysis.
+<br>Integrated full NLP pipeline: text preprocessing, classification, visualization, and evaluation.
+<br>Achieved high performance (F1-score of 0.95 for positive class), while acknowledging limitations in negative sentiment classification (F1-score: 0.55).
+<br>Demonstrated data storytelling through visual outputs and interpretability of model performance.
+<br>Proposed feedback-based optimization strategies for real-world improvements in underperforming classes.
+<br>Delivered a clean, reproducible, and well-documented Python-based tool ready for integration or expansion.
+<br><br>The development of the sentiment analysis application began in the conception phase, where the primary objective was defined: to classify customer sentiment based on product reviews using Natural Language Processing (NLP). The project was built upon the “Women’s Clothing E-Commerce Reviews” dataset from Kaggle, chosen for its rich combination of unstructured text and associated user ratings. Early exploration of the dataset using Pandas revealed missing entries and inconsistent formatting in the text data. A filtering step was applied to remove reviews with no textual content, forming the foundation for the subsequent NLP pipeline.<br><img alt="Ablauf Diagram.jpg" src="lib/media/ablauf-diagram.jpg"><br>The next stage involved tokenization and preprocessing of the review text. To achieve compatibility with the planned transformer model, a tokenizer from the Hugging Face Transformers library was used—specifically tailored to the BERT model selected for this task. Preprocessing steps such as lowercasing, removal of special characters, and handling of negations were handled internally during tokenization. This allowed the use of raw text input while preserving the model’s performance, as BERT-based transformers are trained on unprocessed, natural text to retain contextual understanding.<br>Once the data was tokenized, the project entered the modeling phase, where the pre-trained BERT model (bert-base-uncased-finetuned-review-sentiment-analysis) was initialized. The model was loaded via the Hugging Face pipeline() method, streamlining inference by accepting batches of review text and returning sentiment predictions. These predictions were generated in real time, with each review labeled as “positive,” “neutral,” or “negative” based on the model’s internal classification probabilities.<br>Following prediction, a post-processing step was implemented to categorize the predicted labels and align them with the original user-provided ratings. Star ratings of 4 and 5 were mapped to “positive,” 3 to “neutral,” and 1 or 2 to “negative.” This categorization made it possible to directly compare the model’s output with actual user sentiment, enabling the calculation of performance metrics.<br>To gain a visual overview of the model’s output, a bar plot of sentiment distribution was generated using Matplotlib. Sentiment categories were color-coded for clarity (green for positive, gray for neutral, red for negative). This visualization not only highlighted the class imbalance in the dataset—where positive reviews dominated—but also served as an intuitive summary of the model’s predictions.<br><img alt="sentiment_distribution.png" src="lib/media/sentiment_distribution.png"><br>The final component of the development pipeline was the evaluation phase, where the model’s performance was quantitatively assessed using scikit-learn. Metrics such as accuracy, precision, recall, and F1-score were calculated to measure classification quality. The model achieved an overall accuracy of 87%, with outstanding performance in the positive sentiment category (F1-score of 0.95). However, lower scores for neutral and negative classes indicated underrepresentation in the dataset and highlighted areas for improvement.<br><img alt="Evaluation Metrics.jpg" src="lib/media/evaluation-metrics.jpg"><br>In the finalization phase, these insights were further contextualized. The model’s strength in detecting positive sentiment was affirmed, but its struggle with “negative” and “neutral” classifications prompted a proposal for data augmentation and feedback-based retraining. Suggested improvements included balancing the dataset, incorporating synthetic examples, and using iterative training strategies based on misclassification patterns.<br>Overall, the project demonstrated a complete NLP pipeline built on modern tools and frameworks, delivering a functional sentiment analysis system with high interpretability and extensibility. It successfully combined pre-trained deep learning models with real-world data and offered practical takeaways for product review mining and customer experience analysis.<br><br>Github Repository: <a rel="noopener nofollow" class="external-link" href="https://github.com/sanax-997/nlp_customer_complaints_analysis.git" target="_blank">https://github.com/sanax-997/nlp_customer_complaints_analysis.git</a>]]></description><link>01-entries/sentiment-analysis-of-customer-reviews-–-nlp-pipeline-using-pre-trained-bert-models.html</link><guid isPermaLink="false">01 - Entries/Sentiment Analysis of Customer Reviews – NLP Pipeline Using Pre-Trained BERT Models.md</guid><pubDate>Wed, 30 Apr 2025 12:59:29 GMT</pubDate><enclosure url="lib/media/ablauf-diagram.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/ablauf-diagram.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Testing statistical hypotheses using non-parametric tests]]></title><description><![CDATA[ 
+ <br>]]></description><link>01-entries/testing-statistical-hypotheses-using-non-parametric-tests.html</link><guid isPermaLink="false">01 - Entries/Testing statistical hypotheses using non-parametric tests.md</guid><pubDate>Wed, 30 Apr 2025 15:15:36 GMT</pubDate></item><item><title><![CDATA[What is the Historical Development of CAR-2-X Technology]]></title><description><![CDATA[ 
+ <br>]]></description><link>01-entries/what-is-the-historical-development-of-car-2-x-technology.html</link><guid isPermaLink="false">01 - Entries/What is the Historical Development of CAR-2-X Technology.md</guid><pubDate>Wed, 30 Apr 2025 15:23:36 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br><a data-href="International University (IU)" href="00-index/international-university-(iu).html" class="internal-link" target="_self" rel="noopener nofollow">International University (IU)</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 01 May 2025 07:37:53 GMT</pubDate></item></channel></rss>
