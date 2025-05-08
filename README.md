@@ -1,4 +1,4 @@
-# Obsidian Vault: Sandro Schweiss - Professional Work & Education Repository
+# Obsidian Vault - Professional Work & Education Repository
 
 This repository is a comprehensive collection of my professional work, education, and projects, serving as an interactive CV and knowledge management hub. It is designed to provide an organized and detailed overview of my career journey, skills, accomplishments, and ongoing learning.
 
