@@ -1,0 +1,3 @@
+a[href*="_02-files"], li:has(> a[href*="_02-files"]) {
+    display: none !important;
+}

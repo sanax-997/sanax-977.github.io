@@ -1,6 +1,6 @@
 {
   "vaultName": "Curriculum Vitae Sandro Schweiss",
-  "lastExport": 1746694709966,
+  "lastExport": 1746694913896,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -207,43 +207,43 @@
   ],
   "fileInfo": {
     "00 - Index/Home Page.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 656,
       "exportedPath": "00-index/home-page.html",
       "dependencies": []
     },
     "00 - Index/HTL Eisenstadt.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1268,
       "exportedPath": "00-index/htl-eisenstadt.html",
       "dependencies": []
     },
     "00 - Index/International University (IU).md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 2702,
       "exportedPath": "00-index/international-university-(iu).html",
       "dependencies": []
     },
     "00 - Index/Lehner Electronics.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 682,
       "exportedPath": "00-index/lehner-electronics.html",
       "dependencies": []
     },
     "00 - Index/Marco Treppen.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 942,
       "exportedPath": "00-index/marco-treppen.html",
       "dependencies": []
     },
     "01 - Entries/1.1 - Work/Lehner Electronics Entries/3D Facility Renovation Visualization Using Autodesk Inventor.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 3021,
       "exportedPath": "01-entries/1.1-work/lehner-electronics-entries/3d-facility-renovation-visualization-using-autodesk-inventor.html",
       "dependencies": []
     },
     "01 - Entries/1.1 - Work/Marco Treppen Entries/Creating a staircase configurator with augmented reality function.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 4749,
       "exportedPath": "01-entries/1.1-work/marco-treppen-entries/creating-a-staircase-configurator-with-augmented-reality-function.html",
       "dependencies": [
@@ -251,13 +251,13 @@
       ]
     },
     "01 - Entries/1.1 - Work/Marco Treppen Entries/Excel-Based Pricing Calculator – Workflow Automation Project.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 3684,
       "exportedPath": "01-entries/1.1-work/marco-treppen-entries/excel-based-pricing-calculator-–-workflow-automation-project.html",
       "dependencies": []
     },
     "01 - Entries/1.1 - Work/Marco Treppen Entries/Marketing Data Pipeline & Reporting Automation – FB Ads Performance.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5010,
       "exportedPath": "01-entries/1.1-work/marco-treppen-entries/marketing-data-pipeline-&-reporting-automation-–-fb-ads-performance.html",
       "dependencies": [
@@ -268,13 +268,13 @@
       ]
     },
     "01 - Entries/1.1 - Work/Marco Treppen Entries/Social Media Marketing & Brand Revitalization Project.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 3298,
       "exportedPath": "01-entries/1.1-work/marco-treppen-entries/social-media-marketing-&-brand-revitalization-project.html",
       "dependencies": []
     },
     "01 - Entries/1.2 - Education/HTL Eisenstadt Entries/Development of the KAR-MA 4000 Vertical Carousel Storage System.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 2455,
       "exportedPath": "01-entries/1.2-education/htl-eisenstadt-entries/development-of-the-kar-ma-4000-vertical-carousel-storage-system.html",
       "dependencies": [
@@ -284,7 +284,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/HTL Eisenstadt Entries/Development of the RE-PORT 5000 Automated Quality Control System.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 2365,
       "exportedPath": "01-entries/1.2-education/htl-eisenstadt-entries/development-of-the-re-port-5000-automated-quality-control-system.html",
       "dependencies": [
@@ -292,7 +292,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/HTL Eisenstadt Entries/Modular Trade Fair Stand Design & Interactive Exhibition Toolkit.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 2308,
       "exportedPath": "01-entries/1.2-education/htl-eisenstadt-entries/modular-trade-fair-stand-design-&-interactive-exhibition-toolkit.html",
       "dependencies": [
@@ -300,7 +300,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/HTL Eisenstadt Entries/Trennung der Variablen & Variation der Konstanten.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 977,
       "exportedPath": "01-entries/1.2-education/htl-eisenstadt-entries/trennung-der-variablen-&-variation-der-konstanten.html",
       "dependencies": [
@@ -308,7 +308,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Airbnb Data Mart Development – SQL & Python Integration.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 4360,
       "exportedPath": "01-entries/1.2-education/iu-entries/airbnb-data-mart-development-–-sql-&-python-integration.html",
       "dependencies": [
@@ -318,7 +318,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Architecture Proposal for Constructing a Data Warehouse.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 241,
       "exportedPath": "01-entries/1.2-education/iu-entries/architecture-proposal-for-constructing-a-data-warehouse.html",
       "dependencies": [
@@ -326,7 +326,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Demand Forecasting Model for Public Transport – Predictive Time Series Analysis in Python.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 7193,
       "exportedPath": "01-entries/1.2-education/iu-entries/demand-forecasting-model-for-public-transport-–-predictive-time-series-analysis-in-python.html",
       "dependencies": [
@@ -345,7 +345,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Enhancement of an Online Retailer's Data Quality Management Capabilities.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 214,
       "exportedPath": "01-entries/1.2-education/iu-entries/enhancement-of-an-online-retailer's-data-quality-management-capabilities.html",
       "dependencies": [
@@ -353,7 +353,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Ethical Prinicples of a Global Company.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 216,
       "exportedPath": "01-entries/1.2-education/iu-entries/ethical-prinicples-of-a-global-company.html",
       "dependencies": [
@@ -361,7 +361,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Geo-Spatial Energy Analysis – Interactive Data Visualization of Global Energy Trends.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5715,
       "exportedPath": "01-entries/1.2-education/iu-entries/geo-spatial-energy-analysis-–-interactive-data-visualization-of-global-energy-trends.html",
       "dependencies": [
@@ -374,7 +374,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Habit Tracker – A Web-Based Habit Management & Analytics Tool in Python.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5520,
       "exportedPath": "01-entries/1.2-education/iu-entries/habit-tracker-–-a-web-based-habit-management-&-analytics-tool-in-python.html",
       "dependencies": [
@@ -384,7 +384,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/How to Deal with Security and Privacy Threats in the Context of Data Science.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 183,
       "exportedPath": "01-entries/1.2-education/iu-entries/how-to-deal-with-security-and-privacy-threats-in-the-context-of-data-science.html",
       "dependencies": [
@@ -392,7 +392,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Image Classification for a Refund Department – End-to-End ML Deployment in Python.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 4820,
       "exportedPath": "01-entries/1.2-education/iu-entries/image-classification-for-a-refund-department-–-end-to-end-ml-deployment-in-python.html",
       "dependencies": [
@@ -400,7 +400,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Introduction to Academic Work.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 116,
       "exportedPath": "01-entries/1.2-education/iu-entries/introduction-to-academic-work.html",
       "dependencies": [
@@ -408,7 +408,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Mental Health in Technology-Related Jobs – An Exploratory Data Science Case Study.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5690,
       "exportedPath": "01-entries/1.2-education/iu-entries/mental-health-in-technology-related-jobs-–-an-exploratory-data-science-case-study.html",
       "dependencies": [
@@ -418,7 +418,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/NLP Topic Modeling of Customer Complaints – A Comparative Approach Using LDA and BERTopic.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5972,
       "exportedPath": "01-entries/1.2-education/iu-entries/nlp-topic-modeling-of-customer-complaints-–-a-comparative-approach-using-lda-and-bertopic.html",
       "dependencies": [
@@ -427,7 +427,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Performance improvement of LLMs for NER using Ensemble Learning techniques.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5394,
       "exportedPath": "01-entries/1.2-education/iu-entries/performance-improvement-of-llms-for-ner-using-ensemble-learning-techniques.html",
       "dependencies": [
@@ -435,7 +435,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Principles of Agility used in Modern Software Development.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 244,
       "exportedPath": "01-entries/1.2-education/iu-entries/principles-of-agility-used-in-modern-software-development.html",
       "dependencies": [
@@ -443,7 +443,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Sentiment Analysis of Customer Reviews – NLP Pipeline Using Pre-Trained BERT Models.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 7241,
       "exportedPath": "01-entries/1.2-education/iu-entries/sentiment-analysis-of-customer-reviews-–-nlp-pipeline-using-pre-trained-bert-models.html",
       "dependencies": [
@@ -453,7 +453,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/Testing statistical hypotheses using non-parametric tests.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 224,
       "exportedPath": "01-entries/1.2-education/iu-entries/testing-statistical-hypotheses-using-non-parametric-tests.html",
       "dependencies": [
@@ -461,7 +461,7 @@
       ]
     },
     "01 - Entries/1.2 - Education/IU Entries/What is the Historical Development of CAR-2-X Technology.md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 138,
       "exportedPath": "01-entries/1.2-education/iu-entries/what-is-the-historical-development-of-car-2-x-technology.html",
       "dependencies": [
@@ -469,823 +469,823 @@
       ]
     },
     "01 - Entries/1.3 - Certifications or Professional Development/Professional Title - Ingenieur (Ing.).md": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1087,
       "exportedPath": "01-entries/1.3-certifications-or-professional-development/professional-title-ingenieur-(ing.).html",
       "dependencies": []
     },
     "02 - Files/20200405_Schweiss_Sandro_3206640_DLBCSIDM01 - Ethical Principles of a Global Company - 2tes Semester.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 294231,
       "exportedPath": "02-files/20200405_schweiss_sandro_3206640_dlbcsidm01-ethical-principles-of-a-global-company-2tes-semester.pdf",
       "dependencies": []
     },
     "02 - Files/20200618_Schweiss_Sandro_3206640_DLBCSIAW01.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 3073509,
       "exportedPath": "02-files/20200618_schweiss_sandro_3206640_dlbcsiaw01.pdf",
       "dependencies": []
     },
     "02 - Files/20201223_Schweiss_Sandro_3206640_DLBDSSIS01 - Testing statistical hypotheses using non-parametric tests - 2tes Semester.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1010867,
       "exportedPath": "02-files/20201223_schweiss_sandro_3206640_dlbdssis01-testing-statistical-hypotheses-using-non-parametric-tests-2tes-semester.pdf",
       "dependencies": []
     },
     "02 - Files/20211220_Schweiss_Sandro_3206640_DLBDSSECDS01.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 205265,
       "exportedPath": "02-files/20211220_schweiss_sandro_3206640_dlbdssecds01.pdf",
       "dependencies": []
     },
     "02 - Files/20221008_Schweiss_Sandro_3206640_DLBCSEBI02 - Project Business Intelligence.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 280268,
       "exportedPath": "02-files/20221008_schweiss_sandro_3206640_dlbcsebi02-project-business-intelligence.pdf",
       "dependencies": []
     },
     "02 - Files/20230612_Schweiss_Sandro_3206640_DLBDSEAD02.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 197418,
       "exportedPath": "02-files/20230612_schweiss_sandro_3206640_dlbdsead02.pdf",
       "dependencies": []
     },
     "02 - Files/20230628_Schweiss_Sandro_3206640_DLBDSDQDW01.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 163534,
       "exportedPath": "02-files/20230628_schweiss_sandro_3206640_dlbdsdqdw01.pdf",
       "dependencies": []
     },
     "02 - Files/20230705_Schweiss_Sandro_3206640_DLBCSAPM01.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 177332,
       "exportedPath": "02-files/20230705_schweiss_sandro_3206640_dlbcsapm01.pdf",
       "dependencies": []
     },
     "02 - Files/20241022_Schweiss_Sandro_3206640_Bachelorarbeit.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1591639,
       "exportedPath": "02-files/20241022_schweiss_sandro_3206640_bachelorarbeit.pdf",
       "dependencies": []
     },
     "02 - Files/Ablauf Diagram.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 38806,
       "exportedPath": "02-files/ablauf-diagram.jpg",
       "dependencies": []
     },
     "02 - Files/Average Pickups Holiday vs Workday.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 10794,
       "exportedPath": "02-files/average-pickups-holiday-vs-workday.jpg",
       "dependencies": []
     },
     "02 - Files/Average Pickups Weekday vs Weekend.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 11400,
       "exportedPath": "02-files/average-pickups-weekday-vs-weekend.jpg",
       "dependencies": []
     },
     "02 - Files/BERTopic.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 31580,
       "exportedPath": "02-files/bertopic.jpg",
       "dependencies": []
     },
     "02 - Files/Brooklyn Pickup Predictions.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 59626,
       "exportedPath": "02-files/brooklyn-pickup-predictions.jpg",
       "dependencies": []
     },
     "02 - Files/Brooklyn Pickups with Predictions.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 50303,
       "exportedPath": "02-files/brooklyn-pickups-with-predictions.jpg",
       "dependencies": []
     },
     "02 - Files/Buchentisch render.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 2750334,
       "exportedPath": "02-files/buchentisch-render.png",
       "dependencies": []
     },
     "02 - Files/Class diagram.drawio.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 41854,
       "exportedPath": "02-files/class-diagram.drawio.pdf",
       "dependencies": []
     },
     "02 - Files/Cold Audience to Conversion Funnel.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 15250,
       "exportedPath": "02-files/cold-audience-to-conversion-funnel.png",
       "dependencies": []
     },
     "02 - Files/Column Chart conversion comparison.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 25400,
       "exportedPath": "02-files/column-chart-conversion-comparison.png",
       "dependencies": []
     },
     "02 - Files/Data dictionary.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 121044,
       "exportedPath": "02-files/data-dictionary.pdf",
       "dependencies": []
     },
     "02 - Files/Data Mart - Manual.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 428002,
       "exportedPath": "02-files/data-mart-manual.pdf",
       "dependencies": []
     },
     "02 - Files/Diplomarbeit_5AHME_Messestand.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5046688,
       "exportedPath": "02-files/diplomarbeit_5ahme_messestand.pdf",
       "dependencies": []
     },
     "02 - Files/Distribution of Pickups Throughout the Day.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 26321,
       "exportedPath": "02-files/distribution-of-pickups-throughout-the-day.jpg",
       "dependencies": []
     },
     "02 - Files/DLBDSMTP01_Schweiss_3206640_T2_20240207.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 568652,
       "exportedPath": "02-files/dlbdsmtp01_schweiss_3206640_t2_20240207.pdf",
       "dependencies": []
     },
     "02 - Files/Elbow Score and Silhouette Plot.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 161574,
       "exportedPath": "02-files/elbow-score-and-silhouette-plot.png",
       "dependencies": []
     },
     "02 - Files/Energy Consumption Disparities.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 48647,
       "exportedPath": "02-files/energy-consumption-disparities.png",
       "dependencies": []
     },
     "02 - Files/ER model.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 138756,
       "exportedPath": "02-files/er-model.pdf",
       "dependencies": []
     },
     "02 - Files/Evaluation Metrics.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 20543,
       "exportedPath": "02-files/evaluation-metrics.jpg",
       "dependencies": []
     },
     "02 - Files/Habit Tracker - Manual.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 107908,
       "exportedPath": "02-files/habit-tracker-manual.pdf",
       "dependencies": []
     },
     "02 - Files/HTL Mathe Facharbeit.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 725076,
       "exportedPath": "02-files/htl-mathe-facharbeit.pdf",
       "dependencies": []
     },
     "02 - Files/K-means and Polar Clustering.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 560657,
       "exportedPath": "02-files/k-means-and-polar-clustering.png",
       "dependencies": []
     },
     "02 - Files/KARMA 4000 Construction Document.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 494091,
       "exportedPath": "02-files/karma-4000-construction-document.pdf",
       "dependencies": []
     },
     "02 - Files/KARMA 4000 Requirement Specifications.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1133780,
       "exportedPath": "02-files/karma-4000-requirement-specifications.pdf",
       "dependencies": []
     },
     "02 - Files/KARMA 4000 Static Design Document.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 386347,
       "exportedPath": "02-files/karma-4000-static-design-document.pdf",
       "dependencies": []
     },
     "02 - Files/Linear Correlation of Average Pickups in NYC from April to October 2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 19261,
       "exportedPath": "02-files/linear-correlation-of-average-pickups-in-nyc-from-april-to-october-2014.jpg",
       "dependencies": []
     },
     "02 - Files/Manual Re-PORT 5000.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1962921,
       "exportedPath": "02-files/manual-re-port-5000.pdf",
       "dependencies": []
     },
     "02 - Files/Map.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 261724,
       "exportedPath": "02-files/map.jpg",
       "dependencies": []
     },
     "02 - Files/Multiple Correspondence Analysis.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 77066,
       "exportedPath": "02-files/multiple-correspondence-analysis.png",
       "dependencies": []
     },
     "02 - Files/Number of Pickups by Location in NYC from April to September 2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 27215,
       "exportedPath": "02-files/number-of-pickups-by-location-in-nyc-from-april-to-september-2014.jpg",
       "dependencies": []
     },
     "02 - Files/Number of Pickups in NYC from April to October 2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 79710,
       "exportedPath": "02-files/number-of-pickups-in-nyc-from-april-to-october-2014.jpg",
       "dependencies": []
     },
     "02 - Files/Number of Pickups per Weekday.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 23838,
       "exportedPath": "02-files/number-of-pickups-per-weekday.jpg",
       "dependencies": []
     },
     "02 - Files/Proportional Conversion.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 34785,
       "exportedPath": "02-files/proportional-conversion.png",
       "dependencies": []
     },
     "02 - Files/Proportional Pickups by Location from April to September in NYC 2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 26697,
       "exportedPath": "02-files/proportional-pickups-by-location-from-april-to-september-in-nyc-2014.jpg",
       "dependencies": []
     },
     "02 - Files/Proportional Pickups by Time of Day from April to September 2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 21294,
       "exportedPath": "02-files/proportional-pickups-by-time-of-day-from-april-to-september-2014.jpg",
       "dependencies": []
     },
     "02 - Files/pyLDAvis visualization v2.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 92631,
       "exportedPath": "02-files/pyldavis-visualization-v2.jpg",
       "dependencies": []
     },
     "02 - Files/Scatter Plot of Primary Energy Consumption.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 38359,
       "exportedPath": "02-files/scatter-plot-of-primary-energy-consumption.png",
       "dependencies": []
     },
     "02 - Files/sentiment_distribution.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 17576,
       "exportedPath": "02-files/sentiment_distribution.png",
       "dependencies": []
     },
     "02 - Files/Share of Electricity Sources by Contintent.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 72220,
       "exportedPath": "02-files/share-of-electricity-sources-by-contintent.jpg",
       "dependencies": []
     },
     "02 - Files/Showacing Graph Interactivity.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 27615,
       "exportedPath": "02-files/showacing-graph-interactivity.png",
       "dependencies": []
     },
     "02 - Files/Top 10 Countries with the Highest Greenhouse Gas Emissions.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 37453,
       "exportedPath": "02-files/top-10-countries-with-the-highest-greenhouse-gas-emissions.png",
       "dependencies": []
     },
     "02 - Files/Total conversions by age group.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 16780,
       "exportedPath": "02-files/total-conversions-by-age-group.png",
       "dependencies": []
     },
     "02 - Files/User flow chart.drawio.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 40515,
       "exportedPath": "02-files/user-flow-chart.drawio.pdf",
       "dependencies": []
     },
     "02 - Files/World Electricity Generation and Sources.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 35412,
       "exportedPath": "02-files/world-electricity-generation-and-sources.png",
       "dependencies": []
     },
     "02 - Files/World Electricity Sources.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 43508,
       "exportedPath": "02-files/world-electricity-sources.png",
       "dependencies": []
     },
     "Data dictionary.xlsx": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 24687,
       "exportedPath": "data-dictionary.xlsx",
       "dependencies": []
     },
     "lib/media/buchentisch-render.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 2750334,
       "exportedPath": "lib/media/buchentisch-render.png",
       "dependencies": []
     },
     "lib/media/cold-audience-to-conversion-funnel.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 15250,
       "exportedPath": "lib/media/cold-audience-to-conversion-funnel.png",
       "dependencies": []
     },
     "lib/media/column-chart-conversion-comparison.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 25400,
       "exportedPath": "lib/media/column-chart-conversion-comparison.png",
       "dependencies": []
     },
     "lib/media/total-conversions-by-age-group.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 16780,
       "exportedPath": "lib/media/total-conversions-by-age-group.png",
       "dependencies": []
     },
     "lib/media/proportional-conversion.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 34785,
       "exportedPath": "lib/media/proportional-conversion.png",
       "dependencies": []
     },
     "lib/media/karma-4000-requirement-specifications.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1133780,
       "exportedPath": "lib/media/karma-4000-requirement-specifications.pdf",
       "dependencies": []
     },
     "lib/media/karma-4000-static-design-document.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 386347,
       "exportedPath": "lib/media/karma-4000-static-design-document.pdf",
       "dependencies": []
     },
     "lib/media/karma-4000-construction-document.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 494091,
       "exportedPath": "lib/media/karma-4000-construction-document.pdf",
       "dependencies": []
     },
     "lib/media/manual-re-port-5000.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1962921,
       "exportedPath": "lib/media/manual-re-port-5000.pdf",
       "dependencies": []
     },
     "lib/media/diplomarbeit_5ahme_messestand.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5046688,
       "exportedPath": "lib/media/diplomarbeit_5ahme_messestand.pdf",
       "dependencies": []
     },
     "lib/media/htl-mathe-facharbeit.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 725076,
       "exportedPath": "lib/media/htl-mathe-facharbeit.pdf",
       "dependencies": []
     },
     "lib/media/er-model.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 138756,
       "exportedPath": "lib/media/er-model.pdf",
       "dependencies": []
     },
     "lib/media/data-dictionary.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 121044,
       "exportedPath": "lib/media/data-dictionary.pdf",
       "dependencies": []
     },
     "lib/media/data-mart-manual.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 428002,
       "exportedPath": "lib/media/data-mart-manual.pdf",
       "dependencies": []
     },
     "lib/media/20221008_schweiss_sandro_3206640_dlbcsebi02-project-business-intelligence.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 280268,
       "exportedPath": "lib/media/20221008_schweiss_sandro_3206640_dlbcsebi02-project-business-intelligence.pdf",
       "dependencies": []
     },
     "lib/media/distribution-of-pickups-throughout-the-day.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 26321,
       "exportedPath": "lib/media/distribution-of-pickups-throughout-the-day.jpg",
       "dependencies": []
     },
     "lib/media/proportional-pickups-by-time-of-day-from-april-to-september-2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 21294,
       "exportedPath": "lib/media/proportional-pickups-by-time-of-day-from-april-to-september-2014.jpg",
       "dependencies": []
     },
     "lib/media/number-of-pickups-per-weekday.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 23838,
       "exportedPath": "lib/media/number-of-pickups-per-weekday.jpg",
       "dependencies": []
     },
     "lib/media/average-pickups-weekday-vs-weekend.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 11400,
       "exportedPath": "lib/media/average-pickups-weekday-vs-weekend.jpg",
       "dependencies": []
     },
     "lib/media/number-of-pickups-in-nyc-from-april-to-october-2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 79710,
       "exportedPath": "lib/media/number-of-pickups-in-nyc-from-april-to-october-2014.jpg",
       "dependencies": []
     },
     "lib/media/linear-correlation-of-average-pickups-in-nyc-from-april-to-october-2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 19261,
       "exportedPath": "lib/media/linear-correlation-of-average-pickups-in-nyc-from-april-to-october-2014.jpg",
       "dependencies": []
     },
     "lib/media/proportional-pickups-by-location-from-april-to-september-in-nyc-2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 26697,
       "exportedPath": "lib/media/proportional-pickups-by-location-from-april-to-september-in-nyc-2014.jpg",
       "dependencies": []
     },
     "lib/media/number-of-pickups-by-location-in-nyc-from-april-to-september-2014.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 27215,
       "exportedPath": "lib/media/number-of-pickups-by-location-in-nyc-from-april-to-september-2014.jpg",
       "dependencies": []
     },
     "lib/media/map.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 261724,
       "exportedPath": "lib/media/map.jpg",
       "dependencies": []
     },
     "lib/media/brooklyn-pickups-with-predictions.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 50303,
       "exportedPath": "lib/media/brooklyn-pickups-with-predictions.jpg",
       "dependencies": []
     },
     "lib/media/brooklyn-pickup-predictions.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 59626,
       "exportedPath": "lib/media/brooklyn-pickup-predictions.jpg",
       "dependencies": []
     },
     "lib/media/average-pickups-holiday-vs-workday.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 10794,
       "exportedPath": "lib/media/average-pickups-holiday-vs-workday.jpg",
       "dependencies": []
     },
     "lib/media/20230628_schweiss_sandro_3206640_dlbdsdqdw01.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 163534,
       "exportedPath": "lib/media/20230628_schweiss_sandro_3206640_dlbdsdqdw01.pdf",
       "dependencies": []
     },
     "lib/media/20200405_schweiss_sandro_3206640_dlbcsidm01-ethical-principles-of-a-global-company-2tes-semester.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 294231,
       "exportedPath": "lib/media/20200405_schweiss_sandro_3206640_dlbcsidm01-ethical-principles-of-a-global-company-2tes-semester.pdf",
       "dependencies": []
     },
     "lib/media/energy-consumption-disparities.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 48647,
       "exportedPath": "lib/media/energy-consumption-disparities.png",
       "dependencies": []
     },
     "lib/media/world-electricity-sources.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 43508,
       "exportedPath": "lib/media/world-electricity-sources.png",
       "dependencies": []
     },
     "lib/media/share-of-electricity-sources-by-contintent.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 72220,
       "exportedPath": "lib/media/share-of-electricity-sources-by-contintent.jpg",
       "dependencies": []
     },
     "lib/media/top-10-countries-with-the-highest-greenhouse-gas-emissions.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 37453,
       "exportedPath": "lib/media/top-10-countries-with-the-highest-greenhouse-gas-emissions.png",
       "dependencies": []
     },
     "lib/media/scatter-plot-of-primary-energy-consumption.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 38359,
       "exportedPath": "lib/media/scatter-plot-of-primary-energy-consumption.png",
       "dependencies": []
     },
     "lib/media/showacing-graph-interactivity.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 27615,
       "exportedPath": "lib/media/showacing-graph-interactivity.png",
       "dependencies": []
     },
     "lib/media/user-flow-chart.drawio.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 40515,
       "exportedPath": "lib/media/user-flow-chart.drawio.pdf",
       "dependencies": []
     },
     "lib/media/class-diagram.drawio.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 41854,
       "exportedPath": "lib/media/class-diagram.drawio.pdf",
       "dependencies": []
     },
     "lib/media/habit-tracker-manual.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 107908,
       "exportedPath": "lib/media/habit-tracker-manual.pdf",
       "dependencies": []
     },
     "lib/media/20211220_schweiss_sandro_3206640_dlbdssecds01.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 205265,
       "exportedPath": "lib/media/20211220_schweiss_sandro_3206640_dlbdssecds01.pdf",
       "dependencies": []
     },
     "lib/media/dlbdsmtp01_schweiss_3206640_t2_20240207.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 568652,
       "exportedPath": "lib/media/dlbdsmtp01_schweiss_3206640_t2_20240207.pdf",
       "dependencies": []
     },
     "lib/media/20200618_schweiss_sandro_3206640_dlbcsiaw01.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 3073509,
       "exportedPath": "lib/media/20200618_schweiss_sandro_3206640_dlbcsiaw01.pdf",
       "dependencies": []
     },
     "lib/media/multiple-correspondence-analysis.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 77066,
       "exportedPath": "lib/media/multiple-correspondence-analysis.png",
       "dependencies": []
     },
     "lib/media/elbow-score-and-silhouette-plot.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 161574,
       "exportedPath": "lib/media/elbow-score-and-silhouette-plot.png",
       "dependencies": []
     },
     "lib/media/k-means-and-polar-clustering.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 560657,
       "exportedPath": "lib/media/k-means-and-polar-clustering.png",
       "dependencies": []
     },
     "lib/media/pyldavis-visualization-v2.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 92631,
       "exportedPath": "lib/media/pyldavis-visualization-v2.jpg",
       "dependencies": []
     },
     "lib/media/bertopic.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 31580,
       "exportedPath": "lib/media/bertopic.jpg",
       "dependencies": []
     },
     "lib/media/20241022_schweiss_sandro_3206640_bachelorarbeit.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1591639,
       "exportedPath": "lib/media/20241022_schweiss_sandro_3206640_bachelorarbeit.pdf",
       "dependencies": []
     },
     "lib/media/20230705_schweiss_sandro_3206640_dlbcsapm01.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 177332,
       "exportedPath": "lib/media/20230705_schweiss_sandro_3206640_dlbcsapm01.pdf",
       "dependencies": []
     },
     "lib/media/ablauf-diagram.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 38806,
       "exportedPath": "lib/media/ablauf-diagram.jpg",
       "dependencies": []
     },
     "lib/media/sentiment_distribution.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 17576,
       "exportedPath": "lib/media/sentiment_distribution.png",
       "dependencies": []
     },
     "lib/media/evaluation-metrics.jpg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 20543,
       "exportedPath": "lib/media/evaluation-metrics.jpg",
       "dependencies": []
     },
     "lib/media/20201223_schweiss_sandro_3206640_dlbdssis01-testing-statistical-hypotheses-using-non-parametric-tests-2tes-semester.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1010867,
       "exportedPath": "lib/media/20201223_schweiss_sandro_3206640_dlbdssis01-testing-statistical-hypotheses-using-non-parametric-tests-2tes-semester.pdf",
       "dependencies": []
     },
     "lib/media/20230612_schweiss_sandro_3206640_dlbdsead02.pdf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 197418,
       "exportedPath": "lib/media/20230612_schweiss_sandro_3206640_dlbdsead02.pdf",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 43672,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 6048,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1746694709966,
+      "modifiedTime": 1746694913896,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
